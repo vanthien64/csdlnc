@@ -1,0 +1,4 @@
+Dạ em chào thầy, để trang web có thể hoạt động tốt thầy thêm file cơ sở dữ liệu vào trong PHPMYAdmin giúp em, và chuyển đổi cổng thành cổng :8080, tức là localhost:8080 ấy ạ
+tài khoản đăng nhập vào trang web, thầy có thể đăng ký mới để kiểm tra hoặc sử dụng tài khoản sau
+EMAIL:vtc@gmail.com
+PASS: 123456
